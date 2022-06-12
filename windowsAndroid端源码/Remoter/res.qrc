@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>connect.png</file>
+        <file>disconnect.png</file>
+        <file>behind.png</file>
+        <file>front.png</file>
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>background.jpg</file>
+        <file>stop.jpg</file>
+        <file>R-C.jpg</file>
+        <file>L-C.jpg</file>
+        <file>L.jpg</file>
+        <file>R.jpg</file>
+    </qresource>
+</RCC>

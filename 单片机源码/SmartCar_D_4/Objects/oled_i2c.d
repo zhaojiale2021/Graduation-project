@@ -1,0 +1,16 @@
+.\objects\oled_i2c.o: system\OLED\OLED_I2C.c
+.\objects\oled_i2c.o: system\OLED\OLED_I2C.h
+.\objects\oled_i2c.o: D:\software\MDK\Pack\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h
+.\objects\oled_i2c.o: .\RTE\_Target_1\RTE_Components.h
+.\objects\oled_i2c.o: D:\software\MDK\Pack\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm3.h
+.\objects\oled_i2c.o: D:\software\MDK\Core\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\oled_i2c.o: D:\software\MDK\Pack\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\oled_i2c.o: D:\software\MDK\Pack\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\oled_i2c.o: D:\software\MDK\Pack\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\oled_i2c.o: D:\software\MDK\Pack\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h
+.\objects\oled_i2c.o: .\RTE\Device\STM32F103VC\stm32f10x_conf.h
+.\objects\oled_i2c.o: D:\software\MDK\Pack\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\oled_i2c.o: D:\software\MDK\Pack\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h
+.\objects\oled_i2c.o: D:\software\MDK\Pack\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\oled_i2c.o: D:\software\MDK\Pack\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\oled_i2c.o: D:\software\MDK\Pack\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc\misc.h

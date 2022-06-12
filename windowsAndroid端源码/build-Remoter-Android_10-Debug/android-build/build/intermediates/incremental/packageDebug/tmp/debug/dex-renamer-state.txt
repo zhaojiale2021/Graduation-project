@@ -1,0 +1,4 @@
+#Tue May 17 15:57:55 CST 2022
+base.0=D\:\\Graduation project\\QT\\build-Remoter-Android_10-Debug\\android-build\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
