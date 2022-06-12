@@ -1,1 +1,1 @@
-# Graduation-project
+# Based on QTHREAD
